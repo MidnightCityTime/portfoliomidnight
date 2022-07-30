@@ -320,6 +320,7 @@ header.sticky .nav-bar{
  }
 
  .home-container .home-img img{
+  margin-top: -100px;
   width: 100%;
   transform: translate(0, 0);
  }
