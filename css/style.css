@@ -1341,14 +1341,7 @@ footer a {
 @media screen and (max-width: 730px){
   /*=======Common styles for all sections=======*/
 
-  html,body{
-    overflow: hidden;
-    overflow-y: auto;
-  }
 
-  body::-webkit-scrollbar{
-    display: none;
-  }
   
   body{
     margin: 5rem 0 0 0;
