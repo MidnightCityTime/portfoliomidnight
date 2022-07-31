@@ -68,7 +68,13 @@ html,body{
   max-width: 100%;
 }
 html{
-  overflow-x: hidden;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+  
 }
 
 
