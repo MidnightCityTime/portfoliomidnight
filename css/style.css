@@ -1160,6 +1160,13 @@ footer a {
 /*=======Media query max-width 1070px=======*/
 @media screen and (max-width: 1070px){
   /*=======Header navigation menu=======*/
+  
+   body{
+    overflow-x: hidden;
+   }
+   .example::-webkit-scrollbar {
+    display: none;
+  }
 
   .navigation{
     position: fixed;
