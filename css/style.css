@@ -1342,6 +1342,13 @@ footer a {
 /*=======Media query max-width 730px=======*/
 @media screen and (max-width: 730px){
   /*=======Common styles for all sections=======*/
+     body{
+    overflow-x: hidden;
+   }
+   .example::-webkit-scrollbar {
+    display: none;
+  }
+
   body{
     margin: 5rem 0 0 0;
   }
