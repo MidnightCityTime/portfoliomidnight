@@ -1384,3 +1384,25 @@ footer a {
     font-size: 0.8rem;
   }
 }
+  /*=======iphone 13 pro max=======*/
+@media only screen 
+    and (device-width: 428px) 
+    and (device-height: 926px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+
+      .home-container .media-icons{
+        width: 5%;
+      }
+    }
+
+
+ /*=======iphone 13 pro =======*/
+
+    @media only screen 
+    and (device-width: 390px) 
+    and (device-height: 844px) 
+    and (-webkit-device-pixel-ratio: 3) {
+      .home-container .media-icons{
+        width: 5%;
+      }
+    }
