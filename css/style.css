@@ -66,12 +66,9 @@
 
 html,body{
   max-width: 100%;
-  overflow: auto;
+  overflow-x: hidden;
 }
 
-body{
-  overflow-y: hidden;
-}
 
 
 html{
