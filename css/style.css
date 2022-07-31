@@ -1341,10 +1341,6 @@ footer a {
 @media screen and (max-width: 730px){
   /*=======Common styles for all sections=======*/
 
- html,body{
-    max-width: 100%;
-  }
-  
   body{
     margin: 5rem 0 0 0;
    
