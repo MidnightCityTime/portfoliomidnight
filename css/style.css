@@ -1400,6 +1400,14 @@ footer a {
     and (device-width: 390px) 
     and (device-height: 844px) 
     and (-webkit-device-pixel-ratio: 3) {
+      
+         body{
+    overflow-x: hidden;
+   }
+   .example::-webkit-scrollbar {
+    display: none;
+  }
+
       body{
         margin: 5rem 0 0 0;
       }
@@ -1457,6 +1465,14 @@ footer a {
      and (device-width: 428px) 
      and (device-height: 926px) 
      and (-webkit-device-pixel-ratio: 3) { 
+       
+          body{
+    overflow-x: hidden;
+   }
+   .example::-webkit-scrollbar {
+    display: none;
+  }
+
 
       body{
         margin: 5rem 0 0 0;
