@@ -68,6 +68,12 @@ html,body{
   max-width: 100%;
 }
 
+body{
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+
 html{
   scroll-behavior: smooth;
 }
