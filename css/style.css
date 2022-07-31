@@ -251,13 +251,15 @@ header.sticky .nav-bar{
   color: var(--third-color);
   font-feature-settings: 1.3rem;
   font-weight: 600;
-  line-height: 50px;
+  line-height: 20px;
+  margin-top: 10px; 
  }
 
  .home-container .info p{
   color: var(--third-color);
   font-size: var(--normall-font-size);
   max-width: 350px;
+  margin-top: 10px;
  }
 
  .btn{
