@@ -1340,8 +1340,8 @@ footer a {
 
   body{
     margin: 5rem 0 0 0;
-    
-    width: 100%;
+    overflow: hidden;
+    overflow-y: auto;
   }
 
   .section-title-01{
@@ -1402,7 +1402,6 @@ footer a {
 
       body{
         margin: 5rem 0 0 0;
-        width: 100%;
       }
     
       .section-title-01{
@@ -1462,7 +1461,6 @@ footer a {
 
       body{
         margin: 5rem 0 0 0;
-        width: 100%;
       }
     
       .section-title-01{
