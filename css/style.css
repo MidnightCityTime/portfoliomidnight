@@ -1404,8 +1404,8 @@ footer a {
       body{
         margin: 5rem 0 0 0;
         
-         overflow: hidden;
-        overflow-y: auto;
+      overflow-x: scroll; /* Must be 'scroll' not 'auto' */
+    -webkit-overflow-scrolling: touch;
       }
     
       .section-title-01{
@@ -1465,9 +1465,9 @@ footer a {
 
       body{
         margin: 5rem 0 0 0;
-        
-         overflow: hidden;
-        overflow-y: auto;
+          overflow-x: scroll; /* Must be 'scroll' not 'auto' */
+    -webkit-overflow-scrolling: touch; 
+
       }
     
       .section-title-01{
