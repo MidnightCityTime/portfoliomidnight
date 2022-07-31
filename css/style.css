@@ -229,7 +229,6 @@ header.sticky .nav-bar{
   display: flex;
   flex-direction: column;
   margin-right: 40px;
-  width: 5%;
  }
 
  .home-container .media-icons a{
