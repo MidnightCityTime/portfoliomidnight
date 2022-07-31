@@ -66,7 +66,6 @@
 
 html,body{
   max-width: 100%;
-  overflow-x: hidden;
 }
 
 
@@ -1346,6 +1345,8 @@ footer a {
 
   body{
     margin: 5rem 0 0 0;
+    overflow: hidden;
+    overflow-y: scroll;
   }
 
   .section-title-01{
