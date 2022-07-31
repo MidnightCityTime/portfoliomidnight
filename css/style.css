@@ -67,7 +67,9 @@
 html,body{
   max-width: 100%;
 }
-
+body{
+  overflow-x: hidden;
+}
 
 
 html{
@@ -1345,8 +1347,6 @@ footer a {
 
   body{
     margin: 5rem 0 0 0;
-   overflow: hidden;
-   overflow-y: auto;
   }
 
   .section-title-01{
@@ -1407,8 +1407,6 @@ footer a {
 
       body{
         margin: 5rem 0 0 0;
-         overflow: hidden;
-  overflow-y: auto;
       }
     
       .section-title-01{
@@ -1468,8 +1466,6 @@ footer a {
 
       body{
         margin: 5rem 0 0 0;
-         overflow: hidden;
-  overflow-y: auto;
       }
     
       .section-title-01{
