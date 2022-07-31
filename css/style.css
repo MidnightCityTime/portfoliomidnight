@@ -1343,7 +1343,8 @@ footer a {
 
   body{
     margin: 5rem 0 0 0;
-   
+   overflow: hidden;
+   overflow-y: auto;
   }
 
   .section-title-01{
