@@ -66,12 +66,13 @@
 
 html,body{
   max-width: 100%;
+  overflow: auto;
 }
 
-html{
-  overflow: hidden;
-    overflow-y: auto;
+body{
+  overflow-y: hidden;
 }
+
 
 html{
   scroll-behavior: smooth;
@@ -1348,8 +1349,6 @@ footer a {
 
   body{
     margin: 5rem 0 0 0;
-     overflow: hidden;
-   overflow-y: auto;
   }
 
   .section-title-01{
