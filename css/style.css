@@ -163,7 +163,7 @@ header{
 }
 
 header.sticky{
-  background: rgba(225, 225, 225, 0.1);
+  background: rgba(44, 44, 44, 0.747);
   box-shadow: var(--box-shadow);
 }
 
