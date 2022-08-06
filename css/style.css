@@ -160,10 +160,11 @@ header{
   top: 0;
   left: 0;
   transition: .6s ease;
+  backdrop-filter: blur(10px);
 }
 
 header.sticky{
-  background: rgba(44, 44, 44, 0.747);
+  background-color: rgba(255, 255, 255, 0.1);
   box-shadow: var(--box-shadow);
 }
 
